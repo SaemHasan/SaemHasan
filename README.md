@@ -17,17 +17,17 @@
 
 - 📫 How to reach me **saemhasan027@gmail.com**
 
-- 📄 Know about my experiences [https://saemhasan.github.io/pdf/SAEM_HASAN_CV.pdf](https://saemhasan.github.io/pdf/SAEM_HASAN_CV.pdf)
+- 📄 Know about my experiences [SAEM-HASAN-CV](https://saemhasan.github.io/pdf/SAEM_HASAN_CV.pdf)
 
 - ⚡ Fun fact **I love travelling & watching football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saem-hasan-7b3136147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saem-hasan-7b3136147" height="30" width="40" /></a>
-<a href="https://kaggle.com/saemhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saemhasan" height="30" width="40" /></a>
 <a href="https://fb.com/sayemhasan420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayemhasan420" height="30" width="40" /></a>
 <a href="https://instagram.com/saem_hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saem_hasan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saemhasan6390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saemhasan6390" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@saemhasan6390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saemhasan6390" height="30" width="40" /></a>
+<a href="https://kaggle.com/saemhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saemhasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
