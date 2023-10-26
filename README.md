@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saemhasan&label=Profile%20views&color=0e75b6&style=flat" alt="saemhasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saemhasan" alt="saemhasan" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saemhasan" alt="saemhasan" /></a> </p> -->
 
 - 🔭 I’m currently working on [STELAR](https://github.com/islamazhar/STELAR)
 
-- 🌱 I’m currently learning **Next.js**
+<!-- - 🌱 I’m currently learning **Next.js** -->
 
 - 👯 I’m looking to collaborate on **any project related to Bioinformatics or NLP.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saemhasan027@gmail.com**
 
-- 📄 Know about my experiences [SAEM-HASAN-CV](https://saemhasan.github.io/pdf/SAEM_HASAN_CV.pdf)
+- 📄 Know about my experiences [CV](https://saemhasan.github.io/pdf/SAEM_HASAN_CV.pdf)
 
 - ⚡ Fun fact **I love travelling & watching football.**
 
