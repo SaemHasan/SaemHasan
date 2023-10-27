@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saemhasan.github.io/](https://saemhasan.github.io/)
 
-- 💬 Ask me about **Django, Python, Bioinformatics.**
+- 💬 Ask me about **Django, Python, Bioinformatics, Machine Learning.**
 
 - 📫 How to reach me **saemhasan027@gmail.com**
 
