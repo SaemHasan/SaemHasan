@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saemhasan" alt="saemhasan" /></a> </p> -->
 
-- 🔭 I’m currently working on [STELAR](https://github.com/islamazhar/STELAR)
+<!-- - 🔭 I’m currently working on [STELAR](https://github.com/islamazhar/STELAR) -->
 
 <!-- - 🌱 I’m currently learning **Next.js** -->
 
