@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Next.js** -->
 
-- 👯 I’m looking to collaborate on **any project related to Bioinformatics or NLP.**
+- 👯 I’m looking to collaborate on **any project related to Bioinformatics or Metaheuristics or NLP.**
 
 - 👨‍💻 All of my projects are available at [https://saemhasan.github.io/](https://saemhasan.github.io/)
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saem-hasan-7b3136147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saem-hasan-7b3136147" height="30" width="40" /></a>
 <a href="https://fb.com/sayemhasan420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayemhasan420" height="30" width="40" /></a>
-<a href="https://instagram.com/saem_hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saem_hasan_" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/saem_hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saem_hasan_" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/@saemhasan6390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saemhasan6390" height="30" width="40" /></a>
 <a href="https://kaggle.com/saemhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saemhasan" height="30" width="40" /></a>
 </p>
